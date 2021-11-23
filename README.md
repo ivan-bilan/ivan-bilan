@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" height="150" src="resources/Ivan_Bilan_nov_2021.png">
+  <img width="150" height="150" src="resources/profile_picture.png">
 </p>
 
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Ivan Bilan </h1>
