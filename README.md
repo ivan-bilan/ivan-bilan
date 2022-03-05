@@ -12,6 +12,7 @@
 <h3 align="center">Podcast Appearances</h3>
 <p align="center"> <a href="https://www.buzzsprout.com/1064803/4177799-ai-game-changers-ivan-bilan-lead-nlp-data-scientist-trustyou" target="_blank"> <img src="resources/podcasts/ai_game_changers.jpg" alt="AI Game Changers" width="100" height="100"/> </a> <a href="https://player.captivate.fm/episode/c1504d82-268e-4979-93a1-d439dc506c29" target="_blank"> <img src="resources/podcasts/nlp_zone.png" alt="NLP Zone" width="100" height="100"/> </a> <a href="https://alldus.com/ie/blog/podcasts/aiinaction-ivan-bilan-trustyou/" target="_blank"> <img src="resources/podcasts/alldus.jpg" alt="AI in Action" width="100" height="100"/> </a> <a href="https://www.youtube.com/watch?v=H8P53qjIYKQ" target="_blank"> <img src="resources/podcasts/d4_data_podcast.jpg" alt="D4 Data" width="100" height="100"/> </a>  <a href="https://www.youtube.com/watch?v=RJEf6mzxh1w" target="_blank"> <img src="resources/podcasts/datatalksclub_podcast.jpg" alt="DataTalks.Club" width="100" height="100"/> </a>
 
+<p align="center"> <a href="https://how-to-help-ukraine-now.super.site" target="_blank"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-ukraine_1f1fa-1f1e6.png" alt="Ukraine" width="50" height="50"/> </a>
 
 <p align="center">
     <br>
