@@ -16,7 +16,7 @@
 
 
 <h3 align="center"> 🎥️ My Presentations</h3>
-<p>
+<p align="center">
 <span style="color: #808080; text-decoration-color: #808080; display: table; margin: 0 auto;"><a href="https://www.youtube.com/watch?v=0S9iai4Ld4I">Introduction to NLP for Industry Use | DataTalksClub | 2021 </a></span><br>
 <span style="color: #808080; text-decoration-color: #808080; display: table; margin: 0 auto;"><a href="https://www.youtube.com/watch?v=0S9iai4Ld4I">In Search of Best Practices for NLP Projects | PyData Pune Meetup | 2020</a></span><br>
 <span style="color: #808080; text-decoration-color: #808080; display: table; margin: 0 auto;"><a href="https://www.youtube.com/watch?v=0S9iai4Ld4I">Understanding and Applying Self-Attention for NLP | PyData Berlin | 2018</a></span><br>
