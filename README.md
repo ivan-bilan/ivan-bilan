@@ -5,11 +5,7 @@
 
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Ivan Bilan </h1>
 
-<h3 align="center">A passionate Engineering Manager in the field of data and beyond </h3>
-
-<h3 align="center">My Tech Stack</h3>
-<p align="center"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/> </a>  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" alt="aws" width="50" height="50"/> </a>  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="50" height="50"/> </a> <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="50" height="50"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a> 
-
+<h3 align="center">A passionate Engineering Manager in the field of Identity and Access Rights, Data, AI, NLP and more </h3>
 
 <h3 align="center"> 🎙️ Podcast Appearances</h3>
 
@@ -22,8 +18,6 @@
 <span style="color: #808080; text-decoration-color: #808080; display: table; margin: 0 auto;"><a href="https://www.youtube.com/watch?v=0S9iai4Ld4I">In Search of Best Practices for NLP Projects | PyData Pune Meetup | 2020</a></span><br>
 <span style="color: #808080; text-decoration-color: #808080; display: table; margin: 0 auto;"><a href="https://www.youtube.com/watch?v=OYygPG4d9H0">Understanding and Applying Self-Attention for NLP | PyData Berlin | 2018</a></span><br>
 </p>
-
-<p align="center"> <a href="https://social.edopomoga.gov.ua/en/cabinet/volunteer" target="_blank"> <img src="https://em-content.zobj.net/thumbs/160/lg/307/flag-ukraine_1f1fa-1f1e6.png" alt="Ukraine" width="50" height="50"/> </a>
 
 <p align="center">
     <br>
