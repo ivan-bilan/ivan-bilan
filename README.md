@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Ivan Bilan </h1>
 
-<h3 align="center">A passionate Engineering Manager in the field of Identity and Access Rights, Data, AI, NLP and more </h3>
+<h3 align="center">A passionate Engineering Manager in the field of IAM, Data, NLP and more </h3>
 
 <h3 align="center"> 🎙️ Podcast Appearances</h3>
 
